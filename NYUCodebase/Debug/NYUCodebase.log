@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(163): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(829): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(834): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(839): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(844): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(854): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(856): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(859): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(861): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(864): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(866): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\minh ho\documents\github\cs3113\final project\nyucodebase\nyucodebase\main.cpp(957): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\Minh Ho\Documents\GitHub\CS3113\Final Project\NYUCodebase\Debug\NYUCodebase.exe
